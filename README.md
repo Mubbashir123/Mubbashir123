@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 ```javascript
-const sasikumar = {
+const Mubbashir = {
     location: "India 🇮🇳",
     role: "Full Stack Developer",
     passion: "Problem solving & clean code",
@@ -18,7 +18,7 @@ const sasikumar = {
 - 🌱 I'm currently exploring **modern web technologies** and **competitive programming**
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **React, Node.js, or anything web development**
-- 📫 Reach me at: **mvskumar9393@gmail.com**
+- 📫 Reach me at: **mohdmubbashir26@gmail.com**
 - ⚡ Fun fact: **I debug with console.log() and I'm not ashamed!**
 
 ---
@@ -62,10 +62,8 @@ const sasikumar = {
 ## 🤝 Connect With Me
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/mvskumar9393)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sasi%20kumar)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/sasi._.93)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mvskumar9393@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-mubbashir-082931240/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohdmubbashir26@gmail.com)
 
 </div>
 
